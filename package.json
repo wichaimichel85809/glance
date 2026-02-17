@@ -1,6 +1,6 @@
 {
   "name": "glance",
-  "version": "0.1.10",
+  "version": "0.1.11",
   "description": "AI-powered browser automation MCP server for Claude Code. Navigate, click, screenshot, test \u2014 all from your terminal.",
   "main": "src/index.ts",
   "scripts": {
